@@ -1,0 +1,77 @@
+{
+    "name": "Illumina BaseSpace",
+    "description": "Illumina sequencing and array technologies fuel advancements in life science research, translational and consumer genomics, and molecular diagnostics.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1428-illumina-basespace.jpg",
+    "tags": [
+        "api provider",
+        "biotechnology",
+        "command line interface",
+        "genetics",
+        "have api",
+        "medical",
+        "telecommunications"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/illumina-basespace\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Illumina BaseSpace",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1428-illumina-basespace.jpg",
+            "humanURL": "http:\/\/basespace.illumina.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/illumina-basespace-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/basespace.illumina.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.basespace.illumina.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.basespace.illumina.com\/feed\/"
+        },
+        {
+            "type": "Command Line Interface",
+            "url": "https:\/\/blog.basespace.illumina.com\/2016\/07\/06\/new-basespacecli-tools\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/illumina"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/illumina"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developer.basespace.illumina.com\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/basespace"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/illumina"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/basespace.illumina.com\/"
+        }
+    ]
+}
